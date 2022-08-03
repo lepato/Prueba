@@ -21,8 +21,24 @@ i{
 
 // ............................... 
 
-.imagen-fondo-top{
-    width: 100vw;
-    max-height: 70vh;
+.contenedor-cabeza{
+    background-image: url(../Files/Top-bg.jpg) ;
+    background-size: 100%;
+    
+}
+// .imagen-fondo-top{
+//     width: 100vw;
+//     max-height: 70vh;
 
+// }
+
+.main{
+    margin: 10% 38%% 20% 38%;
+}
+
+.perfil{
+    min-width: 15%;
+    height: 40%;
+    border: solid 2px rgba(0, 0, 0, 0.486);
+   
 }
